@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.111 s <<< FAILURE! - in TestSuite
+setUp(com.nopcommerce.demo.testsuite.TopMenuTest)  Time elapsed: 0.761 s  <<< FAILURE!
+java.lang.NullPointerException
+
